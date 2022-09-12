@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VirTorrazza
-- 👀 I’m interested in front and back end development and application development. Also I'm interested in DBA and networking.
+- 👀 I’m interested in back end development and application development. Also I'm interested in DBA and networking.
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on free software projects.
 - 📫 How to reach me: torrazzavirginia@gmail.com
