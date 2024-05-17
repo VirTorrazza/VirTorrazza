@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VirTorrazza
 - 👀 I’m passionate about development. I'm working as a Java Developer in a company and as freelancer Front End.
-- 🌱 I’m currently learning advanced Spring, Angular, Maven and Design Patterns.
+- 🌱 I’m currently learning WordPress.
 - 💞️ I’m looking to collaborate on free software projects.
 - 📫 How to reach me: torrazzavirginia@gmail.com
 
