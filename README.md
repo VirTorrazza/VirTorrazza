@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VirTorrazza
 - 👀 I’m passionate about development and UX/Technical writing. I'm working as a BackEnd Developer in a company.
-- 🌱 I’m currently learning Python, Langchain and AI.
+- 🌱 I’m currently learning Langchain and AI.
 - 💞️ I’m looking to collaborate on free software projects.
 - 📫 How to reach me: torrazzavirginia@gmail.com
 
